@@ -1,12 +1,8 @@
 ---
-title: "Arch Installation From Scratch"
+title: Arch Installation From Scratch
 layout: post
 tags: [linux, arch, install]
 ---
-
-# Arch Installation From Scratch
-
-## Introduction
 
 Installing Arch linux manually may seem daunting at first but it is very rewarding when completed. Arch is a distribution of Linux that does not come with very many packages included and relies on the user to install and configure what they want. Here are some benefits of manually installing Arch:
 
