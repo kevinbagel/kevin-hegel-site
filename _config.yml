@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kevin Hegel
-description:  "A site dedicated to computer things by yours truly" 
+description:  "If I could be any kind of computer, I would be a supercomputer" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevinhegel.com" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: kevinbagel/kevin-hegel-site-uno
@@ -36,8 +36,8 @@ markdown: kramdown
 highlighter: rouge
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 
 kramdown:
