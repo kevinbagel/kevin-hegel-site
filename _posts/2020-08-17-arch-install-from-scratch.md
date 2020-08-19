@@ -198,7 +198,7 @@ unmount -R /mnt
 shutdown -h now
 ~~~
 
-# Powering up your new System and Troubleshooting
+## Powering up your new System
 
 Take out your usb drive and power up you system. You should see the grub bootloader screen then be asked for your password to unencrypt the drive. Type in the password and you should see a login prompt! Rojoice! You are now running Arch! Otherwise see below for troubleshooting.
 
