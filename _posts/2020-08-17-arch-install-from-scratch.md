@@ -1,5 +1,5 @@
 ---
-title: Arch Installation From Scratch
+title: Arch Linux Installation From Scratch
 layout: post
 tags: [linux, arch, install]
 ---
