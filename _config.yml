@@ -18,6 +18,7 @@ description:  "If I could be any kind of computer, I would be a supercomputer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevinhegel.com" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: kevinbagel/kevin-hegel-site-uno
+#theme: jekyll-uno-test
 google_analytics: 'UA-175647195-1'
 disqus_shortname: 'kevinhegel'
 author:
@@ -27,6 +28,7 @@ author:
   #facebook_username: empty
   github_username: kevinbagel
   linkedin_username: kjhegel
+  pgp_key: pgp.txt
 
 # Build settings
 destination: _site
