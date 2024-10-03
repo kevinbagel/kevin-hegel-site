@@ -4,9 +4,6 @@ layout: post
 tags: [routing, switch, vlan, mikrotik, tnsr, netgear, security, vlans]
 ---
 
-Containerizing home network core with Docker
-=====================================
-
 I moved recently and wanted to take the opportunity to containerize some services that I have been running on a bunch of raspberry pi's and other devices scattered around the house.  I am also adding two ubiquiti access points to alleviate congestion issues caused  by a nearby apartment building.
 
 ## Network Setup
